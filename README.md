@@ -35,7 +35,6 @@ Modifiez la variable pdfUrl dans la balise <script> pour qu'elle pointe vers l'e
 
 JavaScript
 
-const pdfUrl = 'https://thiersy.github.io/minesmada.github.io/documents/pv_de_controle.pdf';
 Si votre fichier PDF se trouve dans le même répertoire que votre index.html, vous pouvez utiliser un chemin relatif comme './mon-fichier.pdf'.
 
 Technologies utilisées 🛠️
